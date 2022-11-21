@@ -1,0 +1,4 @@
+github.com/forPelevin/gomoji v1.1.7 h1:jwzyCapS0H7pqtNy10n1LU1fn35Fmx9OoFOGYwbDJsk=
+github.com/forPelevin/gomoji v1.1.7/go.mod h1:h31zCiwG8nIto/c9RmijODA1xgN2JSvwKfU7l65xeTk=
+github.com/rivo/uniseg v0.3.4 h1:3Z3Eu6FGHZWSfNKJTOUiPatWwfc7DzJRU04jFUqJODw=
+github.com/rivo/uniseg v0.3.4/go.mod h1:FN3SvrM+Zdj16jyLfmOkMNblXMcoc8DfTHruCPUcx88=
